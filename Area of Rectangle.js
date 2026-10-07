@@ -3,5 +3,5 @@
 let w=2;
 let l=2;
 let Area;
-Areaa=w*l;
+Area=w*l;
 console.log(Area);
